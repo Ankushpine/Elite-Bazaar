@@ -2,7 +2,9 @@
 
 Welcome to Elite Bazaar – your ultimate destination for online shopping! Experience seamless browsing, intuitive cart management, and customizable viewing options in our React.js-powered eCommerce app. Utilizing the power of hooks and context, we ensure a seamless shopping experience from start to finish. Happy shopping with Elite Bazaar! 🎉 
 
-### 🔗 Hosted Link : [Link](https://pine-elite-bazaar.netlify.app/)
+### 🌐 Hosted Link : [Link](https://pine-elite-bazaar.netlify.app/)
+
+### 🎞 Vedio Link : [Link](https://drive.google.com/file/d/1OBokGVffHbJALpYecZPk65Gy7fLPoTBJ/view)
 
 ### 🖼 Image :
 <img src="./Image/EliteBazaar.png"  width="710" height="390" >
