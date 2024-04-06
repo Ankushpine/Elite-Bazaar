@@ -1,0 +1,95 @@
+.Carousel {
+  z-index: 80;
+}
+
+.Heading {
+  text-align: center;
+  font-size: 27px;
+}
+
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Card1,
+.Card2 {
+  width: 325px;
+  height: fit-content;
+  background-color: rgb(101, 177, 177);
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.7);
+  margin: 20px;
+  gap: 2px;
+  cursor: pointer;
+}
+
+.Card1 img,
+.Card2 img {
+  height: 300px;
+  width: 100%;
+}
+
+.Card2 {
+  background-color: rgb(221, 128, 67);
+}
+
+.DetailsContainer {
+  padding: 5px;
+  display: flex;
+  gap: 3px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Title {
+  font-size: 18px;
+}
+
+.Price {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.AddCartBtn1,
+.RemoveCartBtn1,
+.AddCartBtn2,
+.RemoveCartBtn2 {
+  border: none;
+  background-color: transparent;
+  margin: 0 auto;
+  width: 100%;
+  border: 1px;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  background-color: rgb(228, 120, 57);
+  color: #fff;
+  border-radius: 2rem;
+  font-size: 0.9rem;
+  font-weight: 200;
+  cursor: pointer;
+  border: 1px solid rgb(15, 15, 15);
+  transition: all 0.3s linear;
+}
+
+.AddCartBtn1:hover,
+.AddCartBtn2:hover {
+  color: #fff;
+  background-color: rgb(160, 110, 206);
+}
+
+.RemoveCartBtn1 {
+  background-color: rgb(54, 102, 148);
+}
+
+.AddCartBtn2 {
+  background-color: rgb(77, 67, 221);
+}
+
+.RemoveCartBtn2 {
+  background-color: rgb(170, 91, 166);
+}

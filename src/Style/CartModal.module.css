@@ -1,0 +1,51 @@
+.ClearCartBtn {
+  text-align: end;
+  padding-right: 10px;
+}
+
+.ClearCartBtn button {
+  height: 40px;
+  width: 97px;
+}
+
+.ItemCotainer {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.NoItem {
+  text-align: center;
+  font-size: 38px;
+}
+
+.Item,
+.Total {
+  height: 40px;
+  width: 90%;
+  background-color: aquamarine;
+  padding: 5px;
+  border-radius: 10px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+
+.Total {
+  margin: auto;
+  height: 42px;
+  border-radius: 5px;
+  background-color: rgb(206, 114, 38);
+}
+
+@media screen and (max-width: 690px) {
+  .Item {
+    font-size: 11px;
+    gap: 2px;
+  }
+}

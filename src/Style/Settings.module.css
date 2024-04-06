@@ -1,0 +1,27 @@
+.Settings {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Settings p {
+  height: 50px;
+  width: 275px;
+  background-color: rgb(94, 142, 197);
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  padding: 3px;
+  cursor: pointer;
+  transition: all 0.2s linear;
+  font-size: 16px;
+}
+
+.Settings p:hover {
+  background-color: rgb(206, 109, 53);
+}

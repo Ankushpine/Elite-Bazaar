@@ -1,0 +1,19 @@
+
+.Error{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Error h1{
+    font-size: 240px;
+}
+
+.Error h3{
+    font-size: 50px;
+}
+
+
+
