@@ -5,7 +5,7 @@ Welcome to Elite Bazaar – your ultimate destination for online shopping! Exper
 ### 🔗 Hosted Link : [Link](https://pine-elite-bazaar.netlify.app/)
 
 ### 🖼 Image :
-<img src="./Image/EliteBazaar.png"  width="680" height="450" >
+<img src="./Image/EliteBazaar.png"  width="710" height="450" >
 
 ## 🔥 Key Features:
 
